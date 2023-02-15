@@ -1,0 +1,2 @@
+Arhitectura proiectului este una MVC (Model-View-Controller)
+In Documentatia proiectului se gaseste si diagrama claselor folosite,atributele, operatiile si relatiile dintre obiecte.
